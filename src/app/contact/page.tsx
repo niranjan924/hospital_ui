@@ -36,7 +36,7 @@ export default function Contact() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">Contact Us</h1>
           <p className="text-xl opacity-90 max-w-2xl mx-auto">
-            Get in touch with our team. We're here to help with your healthcare
+            Get in touch with our team. We&apos;re here to help with your healthcare
             needs and answer any questions you may have.
           </p>
         </div>
@@ -170,7 +170,7 @@ export default function Contact() {
                   Get in Touch
                 </h2>
                 <p className="text-gray-600 mb-8">
-                  We're here to help. Contact us through any of the following
+                  We&apos;re here to help. Contact us through any of the following
                   methods, or visit us in person during our operating hours.
                 </p>
               </div>
@@ -246,7 +246,7 @@ export default function Contact() {
                   Medical Emergency?
                 </h3>
                 <p className="text-red-700 text-sm mb-3">
-                  If you're experiencing a medical emergency, please call 911 or
+                  If you&apos;re experiencing a medical emergency, please call 911 or
                   visit our emergency department immediately.
                 </p>
                 <button className="bg-red-600 text-white px-4 py-2 rounded-lg font-medium hover:bg-red-700 transition-colors duration-200">
